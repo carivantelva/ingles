@@ -1,0 +1,195 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: linear-gradient(#474545, #edf3ed);
+  text-align: center;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  width: 100%;
+
+}
+
+#idioma {
+  display: grid;
+
+  gap: 10px;
+  width: 80%;
+  height: 60%;
+  margin: auto;
+  align-content: center;
+  font-size: 2em;
+
+
+}
+
+container {
+
+  display: grid;
+  justify-content: center;
+
+  border-color: #140101;
+  background-color: rgba(1, 56, 56, 0.288);
+}
+
+#grupos {
+  display: none;
+
+}
+
+#verbos {
+  display: grid;
+
+}
+
+#vocabulario {
+  display: grid;
+}
+
+#adver {
+  display: grid;
+}
+
+/**************************************/
+#listado {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  /* 4 columnas con el mismo ancho */
+  grid-template-rows: repeat(4, 1fr);
+  /* 4 filas con la misma altura */
+  gap: 10px;
+  /* Espacio entre las celdas */
+
+
+}
+
+/*************************************/
+
+#juego {
+  display: none;
+}
+
+h1 {
+  color: rgb(239, 239, 247)
+}
+
+h2 {
+  color: rgb(46, 24, 240);
+  font-size: small;
+
+}
+
+p {
+  color: #edf3ed;
+  font-size: 40px;
+  font-weight: bold;
+
+}
+
+p#result {
+  color: rgb(243, 239, 6);
+  font-size: 20px;
+
+}
+
+p#correcta {
+  color: rgb(33, 10, 241);
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+input#answer {
+  color: rgb(22, 22, 3);
+  font-size: medium;
+  font-weight: bold;
+}
+
+
+input {
+  background-color: rgb(5, 233, 202);
+  color: black;
+  margin-top: 2px;
+  padding: 20px;
+  border-radius: 5%;
+  border: solid;
+  border-color: rgb(37, 34, 34);
+}
+
+
+button {
+  background-color: rgb(72, 194, 224);
+  color: #140101;
+  margin-top: 5px;
+  padding: 20px 5px;
+  border-radius: 10%;
+  width: 90px;
+  justify-self: center;
+  border: solid;
+  border-color: rgb(123, 95, 160);
+  font-weight: bolder;
+
+
+}
+
+.emoji {
+  display: flex;
+  justify-content: space-between
+}
+
+@media (max-width: 601px) {
+
+
+
+  #listado {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    gap: 10px;
+  }
+
+  container {
+    width: 80%;
+    margin: auto;
+
+  }
+
+  h1 {
+    font-size: large;
+    margin: 1%;
+    padding: 0%;
+  }
+
+  input#answer {
+    padding: 5%;
+    color: rgb(22, 22, 3);
+    font-size: medium;
+    font-weight: bold;
+  }
+
+  h2 {
+    color: aliceblue;
+  }
+
+  p {
+    font-size: 30px;
+    margin: 0%;
+    padding: 0%;
+  }
+
+  p#result {
+    color: #edf3ed;
+    font-size: 90%;
+
+  }
+
+  p#correcta {
+    color: rgb(33, 10, 241);
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: x-large;
+  }
+
+
+}
