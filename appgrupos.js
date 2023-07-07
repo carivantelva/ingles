@@ -11,6 +11,13 @@ var error = 0;
 var usedVerbs = [];
 var currentGroup;
 
+
+
+
+function refreshPage() {
+  window.location.reload();
+}
+
 /* <!--con estas funciones se le cambia el estado en style al div Ejem 'vocabulario' de none a block 
 y se oculta el boton correspondiente ejem 'btn11' de block a none en donde btn11 es el nombre 
 del boton que ejecuta esa accion-->*/

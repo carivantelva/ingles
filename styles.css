@@ -41,15 +41,20 @@ container {
 
 #verbos {
   display: grid;
+  display: none;
 
 }
 
 #vocabulario {
   display: grid;
+  display: none;
 }
 
 #adver {
   display: grid;
+  height: 10px;
+
+  display: none;
 }
 
 /**************************************/
@@ -65,6 +70,15 @@ container {
 
 }
 
+#pie {
+  display: flex;
+  height: 10%;
+  font-size: 10%;
+  font-weight: 10%;
+  text-align: center;
+
+}
+
 /*************************************/
 
 #juego {
@@ -72,7 +86,7 @@ container {
 }
 
 h1 {
-  color: rgb(239, 239, 247)
+  color: rgb(239, 239, 247);
 }
 
 h2 {
@@ -135,7 +149,24 @@ button {
 
 .emoji {
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
+}
+
+#round-buttons {
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 50%;
+  background-color:darkcyan;
+}
+
+#roundBtn {
+  display: inline-block;
+  width: 60px;
+  height: 40px;
+  border-radius: 30%;
+  background-color:cadetblue;
+  margin: 5px;
+  text-align: center;
 }
 
 @media (max-width: 601px) {
