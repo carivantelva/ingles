@@ -23,6 +23,8 @@ container {
   background-color: rgba(1, 56, 56, 0.288);
 }
 
+
+
 #grupos {
   display: none;
 
@@ -105,11 +107,13 @@ button {
   margin-top: 5px;
   padding: 20px 5px;
   border-radius: 10%;
-  width: 90px;
+  width: 100px;
+  height: 70px;
   justify-self: center;
   border: solid;
   border-color: rgb(123, 95, 160);
-  font-weight: bolder;
+  font-weight: bolder;  
+  margin-bottom: 10px;
 
 
 }
@@ -123,17 +127,18 @@ button {
   text-align: center;
   margin-top: 10px;
   border-radius: 50%;
-  background-color:darkcyan;
+  background-color: darkcyan;
 }
 
 #roundBtn {
   display: inline-block;
+  text-align: center;
   width: 60px;
   height: 40px;
   border-radius: 30%;
-  background-color:cadetblue;
+  background-color: cadetblue;
   margin: 5px;
-  text-align: center;
+
 }
 
 @media (max-width: 601px) {

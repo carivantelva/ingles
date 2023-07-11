@@ -65,6 +65,10 @@ function mostrarVista() {
     "grupo10",
     "grupo11",
     "grupo12",
+    "grupo13",
+    "grupo14",
+    "grupo15",
+    "grupo16",
     "grupo18"
   ];
 

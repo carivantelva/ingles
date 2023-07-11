@@ -331,6 +331,8 @@ var grupo4 = [
   { english: "Tasty", spanish: "sabroso", meanings: ["sabroso"] },
   ]
 
+
+//estos quedan pendientes 
   var grupo13 = [
   // 7 verbos 3 caso to, not to
 

@@ -19,6 +19,11 @@ function startGame(group) {
     group10: grupo10,
     group11: grupo11,
     group12: grupo12,
+    group13: grupo13,
+    group14: grupo14,
+    group15: grupo15,
+    group16: grupo16,
+
 
     group18: grupo18,
   };
