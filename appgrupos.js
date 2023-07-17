@@ -69,7 +69,9 @@ function mostrarVista() {
     "grupo14",
     "grupo15",
     "grupo16",
-    "grupo18"
+    "grupo17",
+    "grupo18",
+    "grupo19"
   ];
 
   grupos.forEach(function(grupo) {

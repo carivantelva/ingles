@@ -23,9 +23,9 @@ function startGame(group) {
     group14: grupo14,
     group15: grupo15,
     group16: grupo16,
-
-
+    group17: grupo17,
     group18: grupo18,
+    group19: grupo19,
   };
 
   // Verificar si el grupo proporcionado existe en el objeto 'gruposVerbos'

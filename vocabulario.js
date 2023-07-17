@@ -402,15 +402,27 @@ var grupo4 = [
 var grupo17 = [
   //verbos grupo 9 (Verbs, grou 9) pag 40
   { english: "Allow", spanish: "permitir", meanings: ["permitir"] },
+  { english: "Begin", spanish: "empezar", meanings: ["comenzar", "comenzar"] },
+  { english: "Cry", spanish: "llorar", meanings: ["llorar"] },
+  { english: "Check", spanish: "revisar", meanings: ["cheque", "revisar", "verificar", "cuenta", "(en restaurantes)"] },
+  { english: "Disturb", spanish: "perturbar", meanings: ["perturbar", "interrumpir"] },
+  { english: "Die", spanish: "morir", meanings: ["morir"] },
+  { english: "Live", spanish: "vivir", meanings: ["vivir"] },
+  { english: "Let", spanish: "permitir", meanings: ["permitir","dejar"] },
+  { english: "Escape", spanish: "escapar", meanings: ["escapar"] },
+  { english: "Fail", spanish: "Fracasar", meanings: ["fracasar","fallar"] },
+  { english: "Wipe", spanish: "amarrar", meanings: ["amarrar","atar","ataduras","lazos","corbata","empatar"] },
+  { english: "Marry", spanish: "casarse ", meanings: ["casarse con"] },
+  { english: "Pay", spanish: "pagar", meanings: ["pagar"] },
+  { english: "Pay for", spanish: "pagar por", meanings: ["pagar por"] },
+  { english: "Succed", spanish: "tener exito", meanings: ["temer exito"] },
+  { english: "Fall", spanish: "caer", meanings: ["caer","catarata","otoño"] },
+  { english: "Fall down", spanish: "caerse", meanings: ["caerse"] },
+  { english: "Fall in love", spanish: "enamorarse", meanings: ["Enamorarse"] },
+  { english: "Fall in love with", spanish: "enamorarse de", meanings: ["enamorarse de"] },
+  { english: "Turn", spanish: "Girar", meanings: ["girar","voltear","(hacia)", "turno","giro"] },
 
 ]
-var grupo17 = [
-  //verbos grupo 10 pag 43
-
-
-]
-
-
 
 var grupo18 = [
   //Frequency adverbs associate to the presnt tense pag 44
@@ -442,4 +454,188 @@ var grupo18 = [
   { english: "On Sunday morning", spanish: "el domingo por la mañana", meanings: ["el domingo por la mañana"] },
   { english: "On Saturday afternoon", spanish: "el sabado por la tarde", meanings: ["el sabado por la tarde"] },
 
+]
+
+var grupo19 = [
+  //verbos grupo 10 pag 43-44
+
+  { english: "Argue", spanish: "discutir", meanings: ["discutir"] },
+  { english: "Attend", spanish: "asistir", meanings: ["asistir", "(estar presente en)", "cuidar de"] },
+  { english: "Arrest", spanish: "arrestar", meanings: ["arrestar"] },
+  { english: "Warm up", spanish: "calentar", meanings: ["calentar","tibio"] },
+  { english: "Take away", spanish: "quitar", meanings: ["quitar"] },
+  { english: "Take off", spanish: "quitarse", meanings: ["quitarse","despegar", "(un avion)"] },
+  { english: "Annoy", spanish: "enojar", meanings: ["enojar"] },
+  { english: "Bring", spanish: "traer", meanings: ["traer"] },
+  { english: "Cheat", spanish: "hacer trampa", meanings: ["hacer trampa","trampa"] },
+  { english: "Take", spanish: "llevar", meanings: ["llevar"] },
+  { english: "Flush (the toilet)", spanish: "descargar", meanings: ["descargar","(el inodoro)"] },
+  { english: "Hate", spanish: "odiar", meanings: ["odiar"] },
+  { english: "Love", spanish: "amar", meanings: ["amar"] },
+  { english: "Respect", spanish: "respetar", meanings: ["respetar"] },
+  { english: "Rewiew", spanish: "repasar", meanings: ["repasar","repaso"] },
+  { english: "Train", spanish: "entrenar", meanings: ["entrenar","(se)","tren"] },
+  { english: "Quit", spanish: "retirarse", meanings: ["retirarse","abandonar","dejar de hacer algo"] },
+  { english: "Stumble", spanish: "tropezar", meanings: ["tropezar","traspie"] },
+  { english: "Light", spanish: "iluminar", meanings: ["iluminar","encender","luz","liviano"] },
+  { english: "Value", spanish: "cotizar", meanings: ["cotizar","valor"] },
+  { english: "Assess", spanish: "evaluar", meanings: ["evaluar","valorar"] },
+  { english: "Trouble", spanish: "preocupar", meanings: ["preocupar","molestar","molestia","dificultad"] },
+
+]
+
+var grupo20 = [  
+  
+  //expresiones utiles**pag 45-46
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+
+]
+
+var grupo21 =[
+  //verbs, group 11 *** pag 49
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+]
+var grupo22 = [
+  //Vocabulary four (4)******* pag 49-50
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+]
+var grupo23 = [
+  //information questions ***pag 52
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+
+]
+
+vargrupo24 = [
+  //Vocabulary five *********pag 54 -55
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
 ]

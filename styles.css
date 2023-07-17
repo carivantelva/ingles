@@ -42,10 +42,7 @@ container {
 }
 
 #adver {
-  display: grid;
-  height: 10px;
-
-  display: none;
+    display: none;
 }
 
 
@@ -108,7 +105,7 @@ button {
   padding: 20px 5px;
   border-radius: 10%;
   width: 100px;
-  height: 70px;
+  height: 100px;
   justify-self: center;
   border: solid;
   border-color: rgb(123, 95, 160);
