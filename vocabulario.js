@@ -542,32 +542,32 @@ var grupo21 =[
 ]
 var grupo22 = [
   //Vocabulary four (4)******* pag 49-50
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
+  { english: "Bay", spanish: "bahia", meanings: ["bahia"] },
+  { english: "Breeze", spanish: "brisa", meanings: ["brisa"] },
+  { english: "Beach", spanish: "playa", meanings: ["playa"] },
+  { english: "Boat", spanish: "bote", meanings: ["bote"] },
+  { english: "Captain", spanish: "capitan", meanings: ["capitan"] },
+  { english: "Continent", spanish: "continente", meanings: ["continente"] },
+  { english: "Canoe", spanish: "canoa", meanings: ["canoa"] },
+  { english: "Country", spanish: "pais", meanings: ["pais", "campo"] },
+  { english: "Gulf", spanish: "golfo", meanings: ["golfo"] },
+  { english: "Ocean", spanish: "oceano", meanings: ["oceano"] },
+  { english: "Sailor", spanish: "Marinero", meanings: ["marinero"] },
+  { english: "Sea", spanish: "Mar", meanings: ["mar"] },
+  { english: "Ship", spanish: "Barco", meanings: ["barco", "despachar"] },
+  { english: "Shore", spanish: "playa", meanings: ["playa","orilla","costa","litoral"] },
+  { english: "Shark", spanish: "tiburon", meanings: ["tiburon"] },
+  { english: "Port", spanish: "puerto", meanings: ["puerto"] },
+  { english: "Water", spanish: "agua", meanings: ["agua"] },
+  { english: "Island", spanish: "isla", meanings: ["isla"] },
+  { english: "Moon", spanish: "luna", meanings: ["luna"] },
+  { english: "Sun", spanish: "sol", meanings: ["sol"] },
+  { english: "Star", spanish: "estrella", meanings: ["estrella"] },
+  { english: "Sky", spanish: "cielo", meanings: ["cielo"] },
+  { english: "Wind", spanish: "viento", meanings: ["viento"] },
+  { english: "Storm", spanish: "tormenta", meanings: ["tormenta"] },
+  { english: "Thunder", spanish: "trueno", meanings: ["trueno","tronar"] },
+  { english: "Rain", spanish: "lluvia", meanings: ["lluvia","llover"] },
 ]
 var grupo23 = [
   //information questions ***pag 52
@@ -585,6 +585,7 @@ var grupo23 = [
 
 var grupo24 = [
   //Vocabulary five *********pag 54 -55
+  
   { english: "Almighty", spanish: "poderoso", meanings: ["poderoso"] },
   { english: "Book / Textbook", spanish: "libro", meanings: ["libro"] },
   { english: "Backpack", spanish: "mochila", meanings: ["mochila", "maletin"] },
@@ -611,31 +612,80 @@ var grupo24 = [
   { english: "Medicine", spanish: "medicina", meanings: ["medicina"] },
   { english: "Traffic light", spanish: "semaforo", meanings: ["semaforo"] },
   { english: "Crosswalk", spanish: "paso peatonal", meanings: ["paso peatonal"] },
-  /*{ english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  */
+
+
+  { english: "God", spanish: "dios", meanings: ["dios"] },
+  { english: "Good looking", spanish: "atractivo", meanings: ["atractivo"] },
+  { english: "Heaven", spanish: "cielo", meanings: ["cielo"] },
+  { english: "Hell", spanish: "infierno", meanings: ["infierno"] },
+  { english: "Honey", spanish: "miel de aveja", meanings: ["miel de abeja", "cariñito"] },
+  { english: "Ink", spanish: "tinta", meanings: ["tinta"] },
+  { english: "Judge", spanish: "juez", meanings: ["juez", "juzgar"] },
+  { english: "Jury", spanish: "jurado", meanings: ["jurado"] },
+  { english: "Knot", spanish: "nudo", meanings: ["nudo","anudar"] },
+  { english: "Law", spanish: "ley", meanings: ["ley"] },
+  { english: "Marker", spanish: "marcador", meanings: ["marcador"] },
+  { english: "Notebook", spanish: "cuaderno", meanings: ["cuaderno"] },
+  { english: "Pen", spanish: "lapicero", meanings: ["lapicero"] },
+  { english: "Pencil", spanish: "lapiz", meanings: ["lapiz"] },
+  { english: "Powerful", spanish: "poderoso", meanings: ["poderoso"] },
+  { english: "People", spanish: "Gente", meanings: ["gente"] },
+  { english: "Reward", spanish: "Recompensa", meanings: ["recompensa"] },
+  { english: "Road", spanish: "carretera", meanings: ["carretera"] },
+  { english: "Ruler", spanish: "regla", meanings: ["regla"] },
+  { english: "Sharpener", spanish: "sacapuntas", meanings: ["sacapuntas"] },
+  { english: "Trial", spanish: "juicio", meanings: ["juicio","ensayo"] },
+  { english: "Treatment", spanish: "trato", meanings: ["trato"] },
+  { english: "Tangle", spanish: "enredado", meanings: ["enredado","enrredo","enrredar"] },
+  { english: "Terrible", spanish: "terrible", meanings: ["terrible"] },
+  { english: "Way", spanish: "ruta", meanings: ["ruta","camino"] },
+  { english: "Raise your hand", spanish: "alzar la mano", meanings: ["alzar la mano"] },
+  { english: "Work in groups", spanish: "trabajar en grupos", meanings: ["trabajar en grupos"] },
+  
+  
 ]
+
+//useful expression pag 56
+
+var grupo25 = []
+
+
+
+//vocabulary six (6) pag 58
+var grupo26 = [
+
+   { english: "Boy friend", spanish: "Novio", meanings: ["Novio"] },
+   { english: "Girl friend", spanish: "novia", meanings: ["novia"] },
+   { english: "Breakfast", spanish: "Desayuno", meanings: ["desayuno"] },
+   { english: "Lunch", spanish: "almuerzo", meanings: ["almuerzo"] },
+   { english: "Dinner", spanish: "comida", meanings: ["comida", "cena"] },
+   { english: "Have breakfast", spanish: "desayunar", meanings: ["desayunar"] },
+   { english: "Have lunch", spanish: "almorzar", meanings: ["almorzar"] },
+   { english: "Have dinner", spanish: "cenar", meanings: ["cenar"] },
+   { english: "Food", spanish: "Alimento", meanings: ["alimento"] },
+   { english: "Meal", spanish: "comida", meanings: ["comida"] },
+   { english: "Student", spanish: "Estudiante", meanings: ["estudiante"] },
+   { english: "Classmate", spanish: "Compañero de clase", meanings: ["compañero de clase"] },
+   { english: "Teacher", spanish: "profesor", meanings: ["profesor"] },
+   { english: "professor", spanish: "profesor", meanings: ["profesor","(altamente calificado)"] },
+   { english: "Primary school", spanish: "escuela primaria", meanings: ["escuela primaria"] },
+   { english: "High school", spanish: "colegio", meanings: ["colegio"] },
+   { english: "Tuition", spanish: "Matricula", meanings: ["matricula","precio de la enseñanza"] },
+   { english: "Schedule", spanish: "horario", meanings: ["horario"] },
+   { english: "Break", spanish: "regreo", meanings: ["regreo", "descanso"] },
+   { english: "Break time", spanish: "hora de recreo", meanings: ["hora de recreo"] },
+   { english: "Exam", spanish: "examen", meanings: ["examen"] },
+   { english: "Grade", spanish: "nota", meanings: ["nota", "calificacion", "calificar"] },
+   { english: "Monthly payment", spanish: "mensualidad", meanings: ["mensualidad"] },
+
+]
+
+
+
+//pronombres indefinidos 5 pag 58
+var grupo27 = []
+
+
+
+//verbs, group twelve (12). pag 60
+var grupo28 = []
