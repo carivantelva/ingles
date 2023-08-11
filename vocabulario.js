@@ -672,7 +672,7 @@ var grupo26 = [
    { english: "High school", spanish: "colegio", meanings: ["colegio"] },
    { english: "Tuition", spanish: "Matricula", meanings: ["matricula","precio de la enseñanza"] },
    { english: "Schedule", spanish: "horario", meanings: ["horario"] },
-   { english: "Break", spanish: "regreo", meanings: ["regreo", "descanso"] },
+   { english: "Break", spanish: "recreo", meanings: ["recreo", "descanso"] },
    { english: "Break time", spanish: "hora de recreo", meanings: ["hora de recreo"] },
    { english: "Exam", spanish: "examen", meanings: ["examen"] },
    { english: "Grade", spanish: "nota", meanings: ["nota", "calificacion", "calificar"] },
