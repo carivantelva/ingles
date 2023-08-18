@@ -34,6 +34,7 @@ function startGame(group) {
 
     group26: grupo26,
     group28: grupo28,
+    group29: grupo29,
   };
 
   // Verificar si el grupo proporcionado existe en el objeto 'gruposVerbos'

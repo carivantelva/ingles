@@ -80,6 +80,7 @@ function mostrarVista() {
     "grupo26",
     
     "grupo28",
+    "grupo29",
 
   ];
 

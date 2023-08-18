@@ -739,6 +739,24 @@ var grupo29 = [
   { english: "And", spanish: "y", meanings: ["y"] },
   { english: "Both...and", spanish: "ambas cosas", meanings: ["ambas cosas"] },
   { english: "Either...or", spanish: "cualquiera de los dos", meanings: ["cualquiera de los dos","uno u otro"] },
+  { english: "Neither...nor", spanish: "ni...ni", meanings: ["ni...ni","ninguno de los dos","ni uno ni otro"] },
+  { english: "Because", spanish: "porque", meanings: ["porque"] },
+  { english: "But", spanish: "pero", meanings: ["pero"] },
+  { english: "If...them", spanish: "si...entonces", meanings: ["si...entonces","si entonces","(condicional)"] },
+  { english: "Or", spanish: "o", meanings: ["o"] },
+  { english: "That", spanish: "que", meanings: ["que"] },
+  { english: "then", spanish: "luego", meanings: ["luego","entonces"] },
+  { english: "Therefore", spanish: "por consiguiente", meanings: ["por consiguiente","por lo tanto","de esa manera"] },
+  { english: "That's because", spanish: "eso es porque", meanings: ["eso es porque"] },
+  { english: "That's why", spanish: "por eso es que", meanings: ["por eso es que"] },
+  { english: "Because of that", spanish: "a causa de eso", meanings: ["a causa de eso"] },
+  { english: "When", spanish: "cuando", meanings: ["cuando"] },
+  { english: "Where", spanish: "donde", meanings: ["donde"] },
+  { english: "That's what", spanish: "eso es lo que", meanings: ["eso es lo que"] },
+  { english: "That's how", spanish: "eso es como", meanings: ["eso es como","esa es la manera como"] },
+  { english: "Not only...but (also)", spanish: "no solo...sino", meanings: ["no solo...sino","(tambien)"] },
+
+  /*{ english: "", spanish: "", meanings: [""] },
   { english: "", spanish: "", meanings: [""] },
   { english: "", spanish: "", meanings: [""] },
   { english: "", spanish: "", meanings: [""] },
@@ -752,8 +770,7 @@ var grupo29 = [
   { english: "", spanish: "", meanings: [""] },
   { english: "", spanish: "", meanings: [""] },
   { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
+  
+    */
   
 ]
