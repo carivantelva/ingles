@@ -72,12 +72,14 @@ function mostrarVista() {
     "grupo17",
     "grupo18",
     "grupo19",
-
-    
+    "grupo20",
+    "grupo21",    
     "grupo22",
     "grupo23",
     "grupo24",
     "grupo26",
+    
+    "grupo28",
 
   ];
 
