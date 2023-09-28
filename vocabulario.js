@@ -411,7 +411,7 @@ var grupo17 = [
   { english: "Let", spanish: "permitir", meanings: ["permitir","dejar"] },
   { english: "Escape", spanish: "escapar", meanings: ["escapar"] },
   { english: "Fail", spanish: "Fracasar", meanings: ["fracasar","fallar"] },
-  { english: "Wipe", spanish: "amarrar", meanings: ["limpiar","pasarle un trapo a","ataduras","trapo","toallita"] },
+  { english: "Wipe", spanish: "amarrar", meanings: ["limpiar","pasarle un trapo a","trapo","toallita"] },
   { english: "Marry", spanish: "casarse ", meanings: ["casarse con"] },
   { english: "Pay", spanish: "pagar", meanings: ["pagar"] },
   { english: "Pay for", spanish: "pagar por", meanings: ["pagar por"] },
