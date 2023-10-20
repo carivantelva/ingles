@@ -411,11 +411,11 @@ var grupo17 = [
   { english: "Let", spanish: "permitir", meanings: ["permitir","dejar"] },
   { english: "Escape", spanish: "escapar", meanings: ["escapar"] },
   { english: "Fail", spanish: "Fracasar", meanings: ["fracasar","fallar"] },
-  { english: "Wipe", spanish: "amarrar", meanings: ["limpiar","pasarle un trapo a","trapo","toallita"] },
+  { english: "Wipe", spanish: "amarrar", meanings: ["amarrar","atar","ataduras","lazos","corbata","empatar"] },
   { english: "Marry", spanish: "casarse ", meanings: ["casarse con"] },
   { english: "Pay", spanish: "pagar", meanings: ["pagar"] },
   { english: "Pay for", spanish: "pagar por", meanings: ["pagar por"] },
-  { english: "Succed", spanish: "tener exito", meanings: ["tener exito"] },
+  { english: "Succed", spanish: "tener exito", meanings: ["temer exito"] },
   { english: "Fall", spanish: "caer", meanings: ["caer","catarata","otoño"] },
   { english: "Fall down", spanish: "caerse", meanings: ["caerse"] },
   { english: "Fall in love", spanish: "enamorarse", meanings: ["Enamorarse"] },
@@ -487,64 +487,58 @@ var grupo19 = [
 var grupo20 = [  
   
   //expresiones utiles**pag 45-46
-  { english: "A lot", spanish: "bastante", meanings: ["bastante","mucho"] },  
-  { english: "A lot of", spanish: "bastante de", meanings: ["bastante de", "mucho de"] },
-  { english: "A great deal", spanish: "bastante", meanings: ["bastante", "mucho"] },
-  { english: "A great deal of", spanish: "bastante de", meanings: ["bastante de", "mucho de"] },
-  { english: "All of them", spanish: "todos ellos", meanings: ["todos ellos"] },
-  { english: "both of them", spanish: "ambos", meanings: ["ambos"] },
-  { english: "from time to time", spanish: "de vez en cuando", meanings: ["de vez en cuando"] },
-  { english: "For a while", spanish: "por un rato", meanings: ["por un rato", "por un tiempo"] },
-  { english: "As soon as possible", spanish: "tan pronto como sea posible", meanings: ["tan pronto como sea posible"] },
-  { english: "Sooner or later", spanish: "tarde o temprano", meanings: ["tarde o temprano"] },
-  { english: "A bit", spanish: "un poquito", meanings: ["un poquito"] },
-  { english: "A bit of", spanish: "un poquito de", meanings: ["un poquito de"] },
-  { english: "Nothing to worry", spanish: "nada de que preocuparse", meanings: ["nada de que procuparse"] },
-  { english: "It all seems like yesterday", spanish: "todo parece que fue ayer", meanings: ["todo parece que fue ayer"] },
-  { english: "Never mind", spanish: "no se preocupe", meanings: ["no se preocupe"] },
-  { english: "You'd better", spanish: "mejor usted ", meanings: ["mejor usted","es mejor que tu"] },
-  { english: "It's water down the bridge", spanish: "es cosa del pasado", meanings: ["es cosa del pasado"] },
-  { english: "As a watter of facts", spanish: "en efecto", meanings: ["en efecto","en realidad"] },
-  { english: "Can't help it", spanish: "no podemos evitarlo", meanings: ["no podemos evitarlo"] },
-  { english: "Go to hell!", spanish: "vayyase al infierno", meanings: ["vayase al infierno"] },
-  { english: "I think so, too", spanish: "yo tambien creo eso", meanings: ["yo tambien creo eso"] },
-  { english: "Just in case", spanish: "por si acaso", meanings: ["por si acaso"] },
-  { english: "What happens?", spanish: "que pasa", meanings: ["que pasa","(?)"] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
 
 ]
 
 var grupo21 =[
   //verbs, group 11 *** pag 49
-  { english: "Contradict", spanish: "contradecir", meanings: ["contradecir"] },
-  { english: "Convince", spanish: "convencer", meanings: ["convencer"] },
-  { english: "Cross", spanish: "cruzar", meanings: ["cruzar", "traicionar","cruz"] },
-  { english: "Criticize", spanish: "criticar", meanings: ["criticar"] },
-  { english: "Copy", spanish: "copiar", meanings: ["copiar"] },
-  { english: "Copy from", spanish: "copiar a", meanings: ["copiar a "] },
-  { english: "Change", spanish: "cambiar", meanings: ["cambiar","cambio"] },
-  { english: "Charge", spanish: "cobrar", meanings: ["cobrar","cargar a la cuenta"] },
-  { english: "Compare", spanish: "comparar", meanings: ["comparar"] },
-  { english: "Create", spanish: "crear", meanings: ["crear"] },
-  { english: "Seem", spanish: "Parecer", meanings: ["parecer"] },
-  { english: "Seem like", spanish: "parecer como", meanings: ["parecer como"] },
-  { english: "Complain", spanish: "quejarse", meanings: ["quejarse"] },
-  { english: "Complain about", spanish: "quejarse de", meanings: ["quejarse de"] },
-  { english: "Complain for", spanish: "quejarse por", meanings: ["quejarse por"] },
-  { english: "Care (about)", spanish: "importarle a uno", meanings: ["importarle a uno","(acerca de)"] },
-  { english: "Take care", spanish: "cuidar", meanings: ["cuidar"] },
-  { english: "Take care of", spanish: "cuidar de", meanings: ["cuidar de","cuidar a"] },
-  { english: "Sail", spanish: "Navegar", meanings: ["navegar","zarpar"] },
-  { english: "Set free", spanish: "dejar libre", meanings: ["dejar libre"] },
-  { english: "Treat", spanish: "tratar", meanings: ["tratar"] },
-  { english: "Invite", spanish: "invitar", meanings: ["invitar"] },
-  { english: "Plot", spanish: "conspirar", meanings: ["conspirar","complot"] },
-  { english: "Push", spanish: "empujar", meanings: ["empujar","empujon","precionar","(a alguien)"] },
-  { english: "preach", spanish: "predicar", meanings: ["predicar"] },
-  { english: "Paste", spanish: "pegar", meanings: ["pegar","(en el computador)", "pasta","pate"] },
-  { english: "Remove", spanish: "quitar", meanings: ["quitar","trasladar"] },
-  { english: "Rest", spanish: "descansar", meanings: ["descansar","descanso","resto"] },
-  { english: "Rule", spanish: "gobernar", meanings: ["gobernar","mandar","regla"] },
-  { english: "Select", spanish: "seleccionar", meanings: ["seleccionar","selecto","escogido"] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
+  { english: "", spanish: "", meanings: [""] },
 ]
 var grupo22 = [
   //Vocabulary four (4)******* pag 49-50
@@ -619,6 +613,7 @@ var grupo24 = [
   { english: "Traffic light", spanish: "semaforo", meanings: ["semaforo"] },
   { english: "Crosswalk", spanish: "paso peatonal", meanings: ["paso peatonal"] },
 
+
   { english: "God", spanish: "dios", meanings: ["dios"] },
   { english: "Good looking", spanish: "atractivo", meanings: ["atractivo"] },
   { english: "Heaven", spanish: "cielo", meanings: ["cielo"] },
@@ -652,19 +647,7 @@ var grupo24 = [
 
 //useful expression pag 56
 
-var grupo25 = [
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-]
+var grupo25 = []
 
 
 
@@ -689,7 +672,7 @@ var grupo26 = [
    { english: "High school", spanish: "colegio", meanings: ["colegio"] },
    { english: "Tuition", spanish: "Matricula", meanings: ["matricula","precio de la enseñanza"] },
    { english: "Schedule", spanish: "horario", meanings: ["horario"] },
-   { english: "Break", spanish: "regreo", meanings: ["regreo", "descanso"] },
+   { english: "Break", spanish: "recreo", meanings: ["recreo", "descanso"] },
    { english: "Break time", spanish: "hora de recreo", meanings: ["hora de recreo"] },
    { english: "Exam", spanish: "examen", meanings: ["examen"] },
    { english: "Grade", spanish: "nota", meanings: ["nota", "calificacion", "calificar"] },
@@ -700,77 +683,74 @@ var grupo26 = [
 
 
 //pronombres indefinidos 5 pag 58
-var grupo27 = [
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-]
+var grupo27 = []
 
 
 
 //verbs, group twelve (12). pag 60
-var grupo28 = [
-  { english: "Cash", spanish: "cambiar en efectivo", meanings: ["cambiar en efectivo","dinero en efectivo"] },
-  { english: "Crash", spanish: "estrellarse", meanings: ["estrellarse","chocar", "choque"] },
-  { english: "Call", spanish: "llamar", meanings: ["llamar","llamada"] },
-  { english: "Complete", spanish: "completar", meanings: ["completar","completo","(adjetivo)"] },
-  { english: "Complicate", spanish: "complicar", meanings: ["complicar","complicado","(adjetivo)"] },
-  { english: "Envy", spanish: "envidiar", meanings: ["envidiar"] },
-  { english: "Enjoy", spanish: "disfrutar", meanings: ["disfrutar"] },
-  { english: "Explain", spanish: "explicar", meanings: ["explicar"] },
-  { english: "Fool", spanish: "embobar", meanings: ["embobar","tomar el pelo","bobo","tonto"] },
-  { english: "Land", spanish: "Aterrizar", meanings: ["aterrizar","tierra"] },
-  { english: "Kick", spanish: "patear", meanings: ["patear","patada"] },
-  { english: "Kid", spanish: "Bromear", meanings: ["Bromear","niño"] },
-  { english: "Listen", spanish: "escuchar", meanings: ["escuchar"] },
-  { english: "Listen to", spanish: "escuchar a", meanings: ["escuchar a"] },
-  { english: "Boil", spanish: "Hervir", meanings: ["hervir"] },
-  { english: "Bury", spanish: "enterrar", meanings: ["enterrar"] },
-  { english: "Crush", spanish: "aplastar", meanings: ["aplastar","triturar"] },
-  { english: "Hug", spanish: "abrazar", meanings: ["abrazar","abrazo"] },
-  { english: "Realize", spanish: "darse cuenta", meanings: ["darse cuenta","(de)"] },
+var grupo28 = []
+
+//conectores pag 62
+var grupo29 = []
+
+//adverbios asociados al pasado pag 68
+var grupo30 = []
+
+//Verbs, group 13 pag 77
+var grupo31 = []
+
+//Useful expressions 77
+var grupo32 = []
+
+//Preposiciones pag 79
+var grupo33 = [
+
+  { english: "Again", spanish: "de nuevo ", meanings: ["de nuevo"] },
+  { english: " Across ", spanish: "A traves de  ", meanings: ["A traves de  "] },
+  { english: "About", spanish: "Acerca", meanings: ["acerca", "(de)", "casi", "Aproximadamente"] },
+  { english: "After", spanish: "despues ", meanings: ["despues","(de)"] },
+  { english: "Along", spanish: "a lo largo de", meanings: ["a lo largo de"] },
+  { english: "Among", spanish: "entre", meanings: ["entre", "(mas de dos cosas)"] },
+  { english: "Around", spanish: "alrededor de ", meanings: ["alrededor de"] },
+  { english: "Between", spanish: "entre ", meanings: ["entre", "(dos cosas)"] },
+  { english: "Behind", spanish: "Detras ", meanings: ["detras", "(de)"] },
+  { english: "Before", spanish: "Antes", meanings: ["Antes", "(de)"] },
+  { english: "Beyond", spanish: "mas alla de ", meanings: ["mas alla de"] },
+  { english: "Because of", spanish: "a causa de ", meanings: ["a causa de", "por culpa de"] },
+  { english: "Down", spanish: "abajo ", meanings: ["abajo", "bajando"] },
+  { english: "In front of", spanish: "frente de", meanings: ["(en)", "frente de"] },
+  { english: "In back of", spanish: "detras de", meanings: ["detras de"] },
+  { english: "Into", spanish: "en ", meanings: ["en", "(movimiento de afuera hacia dentro"] },
+  { english: "On", spanish: "encima ", meanings: ["encima", "(sin tocar la superficie)"] },
+  { english: "Out", spanish: "fuera de", meanings: ["fuera de"] },
+  { english: "Over", spanish: "encima", meanings: ["encima", "(sin tocar la superficie)"] },
+  { english: "Of", spanish: "de", meanings: ["de", "(posesion)"] },
+  { english: "Up", spanish: "Subiendo", meanings: ["subiendo", "Arriba"] },
+  { english: "Under", spanish: "debajo", meanings: ["debajo", "(de)"] },
+  { english: "Until", spanish: "hasta", meanings: ["hasta"] },
+  { english: "Within", spanish: "dentro de ", meanings: ["dentro de"] }
+
 ]
 
-//conectores (Connectives) pagina 62-63
-var grupo29 = [
-  { english: "And", spanish: "y", meanings: ["y"] },
-  { english: "Both...and", spanish: "ambas cosas", meanings: ["ambas cosas"] },
-  { english: "Either...or", spanish: "cualquiera de los dos", meanings: ["cualquiera de los dos","uno u otro"] },
-  { english: "Neither...nor", spanish: "ni...ni", meanings: ["ni...ni","ninguno de los dos","ni uno ni otro"] },
-  { english: "Because", spanish: "porque", meanings: ["porque"] },
-  { english: "But", spanish: "pero", meanings: ["pero"] },
-  { english: "If...them", spanish: "si...entonces", meanings: ["si...entonces","si entonces","(condicional)"] },
-  { english: "Or", spanish: "o", meanings: ["o"] },
-  { english: "That", spanish: "que", meanings: ["que"] },
-  { english: "then", spanish: "luego", meanings: ["luego","entonces"] },
-  { english: "Therefore", spanish: "por consiguiente", meanings: ["por consiguiente","por lo tanto","de esa manera"] },
-  { english: "That's because", spanish: "eso es porque", meanings: ["eso es porque"] },
-  { english: "That's why", spanish: "por eso es que", meanings: ["por eso es que"] },
-  { english: "Because of that", spanish: "a causa de eso", meanings: ["a causa de eso"] },
-  { english: "When", spanish: "cuando", meanings: ["cuando"] },
-  { english: "Where", spanish: "donde", meanings: ["donde"] },
-  { english: "That's what", spanish: "eso es lo que", meanings: ["eso es lo que"] },
-  { english: "That's how", spanish: "eso es como", meanings: ["eso es como","esa es la manera como"] },
-  { english: "Not only...but (also)", spanish: "no solo...sino", meanings: ["no solo...sino","(tambien)"] },
 
-  /*{ english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  { english: "", spanish: "", meanings: [""] },
-  
-    */
-  
+//Verb group 14
+var grupo34 = [
+
+  { english: "Add", spanish: "sumar", meanings: ["sumar"] },
+  { english: "Subtract", spanish: "restar", meanings: ["restar","sustraer"] },
+  { english: "Divide", spanish: "dividir", meanings: ["dividir"] },
+  { english: "Multiply", spanish: "multiplicar", meanings: ["multiplicar"] },
+  { english: "Deny", spanish: "negar", meanings: ["negar"] },
+  { english: "Assert", spanish: "afirmar", meanings: ["afirmar", "aseverar"] },
+  { english: "Dial", spanish: "Discar", meanings: ["discar", "(un telefono)"] },
+  { english: "Deliver", spanish: "entregar", meanings: ["entregar", "despachar"] },
+  { english: "Lie", spanish: "mentir", meanings: ["mentir"] },
+  { english: "Lie (to)", spanish: "mentir a", meanings: ["mentir a"] },
+  { english: "Tie", spanish: "amarrar", meanings: ["amarrar", "empatar", "corbata"] },
+  { english: "Smell", spanish: "oler", meanings: ["oler", "olor"] },
+  { english: "Stink", spanish: "apestar", meanings: ["apestar","hediondez"] },
+  { english: "Own", spanish: "poseer", meanings: ["poseer", "propio"] },
+  { english: "Sound", spanish: "sonar", meanings: ["sonar", "sonido"] },
+  { english: "Run-dry", spanish: "secarse", meanings: ["secarse"] },
+  { english: "Carry out", spanish: "llevar a cabo", meanings: ["llevar a cabo", "realizar"] }
 ]
